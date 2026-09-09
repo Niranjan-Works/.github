@@ -6,7 +6,7 @@
 
 We turn ideas into reliable, scalable software - from the first line of code to production.
 
-**[🌐 Visit niranjanworks.com.np](https://niranjanworks.com.np)**
+**[🌐 Visit niranjanworks.com](https://niranjanworks.com)**
 
 ---
 
@@ -124,7 +124,7 @@ Selected tools, experiments, and projects from Niranjan Works may be released as
 
 Have an idea, project, or problem worth solving?
 
-**[🌐 niranjanworks.com.np](https://niranjanworks.com.np)**
+**[🌐 niranjanworks.com](https://niranjanworks.com)**
 
 ---
 
